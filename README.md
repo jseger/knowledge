@@ -1,4 +1,4 @@
-# Wiki
-A collection of shared knowledge
+## Introduction
+### Welcome to my Knowledgebase
 
-[Wiki](https://github.com/jseger/knowledge/wiki)
+Check out the [Wiki](https://github.com/jseger/knowledge/wiki) page.
